@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Fernando Perez",
+      "attendance at events": 2,
+      "vaccination status": "Vacunado"
+    
+    },
+    {
+        "name": "Pamela Reif",
+        "attendance at events": 1,
+        "vaccination status": "Vacunado"
+      
+      },
+      {
+        "name": "Facundo Torres",
+        "attendance at events": 0,
+        "vaccination status": "No Vacunado"
+      
+      },
+      {
+        "name": "Laura Fernandez",
+        "attendance at events": 0,
+        "vaccination status": "Vacunado"
+      
+      }
+  ]
