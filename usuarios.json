@@ -2,25 +2,29 @@
     {
       "name": "Fernando Perez",
       "attendance at events": 2,
-      "vaccination status": "Vacunado"
+      "vaccination status": "Vacunado",
+      "DNI":3476876
     
     },
     {
         "name": "Pamela Reif",
         "attendance at events": 1,
-        "vaccination status": "Vacunado"
+        "vaccination status": "Vacunado",
+        "DNI":5448976
       
       },
       {
         "name": "Facundo Torres",
         "attendance at events": 0,
-        "vaccination status": "No Vacunado"
+        "vaccination status": "No Vacunado",
+        "DNI":5808976
       
       },
       {
         "name": "Laura Fernandez",
         "attendance at events": 0,
-        "vaccination status": "Vacunado"
+        "vaccination status": "Vacunado",
+        "DNI":5348976
       
       }
   ]

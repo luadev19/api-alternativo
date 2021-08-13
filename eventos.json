@@ -3,21 +3,25 @@
       "name": "Maluma on Concert",
       "date": "18 de Septiembre de 2021",
       "location": "Antel Arena",
-      "capacity": "3000"
+      "capacity": "3000",
+      "ID": "E0001"
+
     
     },
     {
         "name": "Peñarol vs Nacional",
         "date": "26 de Agosto de 2021",
         "location": "Campeón del Siglo",
-        "capacity": "5000"
+        "capacity": "5000",
+        "ID": "E0002"
       
       },
       {
         "name": "Cirque do Soleil",
         "date": "7 de noviembre de 2021",
         "location": "Antel Arena",
-        "capacity": "3000"
+        "capacity": "3000",
+        "ID": "E0003"
       
       }
 
